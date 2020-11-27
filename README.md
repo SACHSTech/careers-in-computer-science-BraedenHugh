@@ -31,6 +31,7 @@
 ***
 ## Standard Education
 One university that offers Video Game Design is the University of Toronto. The prerequisites to this program are software design, software tools and systems programming, and introduction to software engineering. It will take around 5 years to complete.
+![alt text](https://learnonline.ecampusontario.ca/App_Content/Institution/425/Logos/UTCrst_Stacked_655_1024x768.jpeg)
 ***
 ## Experiential Learning
 There are a number of online seminars going on for people to participate in, to gain experience on not only video game designing itself, but also skills like teamwork, and creativity. Recently I participated in a seminar by illuminate called NHLC(national highschool leadership conference), in which I completed a number of tasks with new people whom I have become friends with. Through this experience I have gained new friends, and I believe that my teamwork,and problem solving skills have benefited greatly from the experience
@@ -41,3 +42,20 @@ There are a number of online seminars going on for people to participate in, to 
 | Entry Level  |1-3 years| $40000 |Markham Ontario|
 | Mid Level    |3-5 years|$60000 - 80000 |Vancouver BC|
 | Senior Level |5+ years|$75000 - 95000|Vancouver BC|
+
+***
+### Entry Level
+**Job Description:** Create high quality concepts, illustrations, and designs of props and special decor elements. Manage the design, layout and production of all sets and props in the game. Conceptualizing, formulating and creating new creative game puzzles and sets. Relentlessly pursuit to perfecting small detail via feedbacks provided
+***
+### Mid Level
+**Job Description:** Create high quality concepts, illustrations, and designs of props and special decor elements. Manage the design, layout and production of all sets and props in the game.Produce creative artwork in a fast-paced production environment. Deliver artwork and elements within deadlines set by production.
+
+***
+### Senior Level
+**Job Description:**  The primary function of the Video Game Designer is to be a part of and contribute to a talented team of game designers to consistently deliver projects that are creatively and commercially successful.
+**Requirements:**
+*Experience communicating across disciplines (art, sound, tech)
+*Minimum 5 years of experience as a video game designer
+*Minimum 3 published video game titles on iOS, Android, PC/Mac or console
+*College or university diploma, certificate or degree in game design or equivalent experience
+*Must complete our entry creative test
