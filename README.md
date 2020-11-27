@@ -16,12 +16,15 @@
 #### Required Education
 &nbsp;&nbsp;There are a number of programs that can be taken to become a videogame designer. They include degrees in Game design, Game development, Game art, and Animation.
 #### Technical and Non-Technical Skills
+Technical Skills
+* Knowledge of gaming trend
+* Programming 
+
+Non-Technical Skills
 * Creativity
 * Artistic vision
 * Storytelling ability
-* Knowledge of gaming trend
 * Analytical frame of mind
-* Programming skills
 * Teamwork 
 #### Salary of Video Game Designer
 &nbsp;&nbsp;On average a video game designer makes around **$54 000** annually. This can go up to around **$90 000** for a more senior position.
@@ -59,3 +62,12 @@ There are a number of online seminars going on for people to participate in, to 
 * Minimum 3 published video game titles on iOS, Android, PC/Mac or console
 * College or university diploma, certificate or degree in game design or equivalent experience
 * Must complete our entry creative test
+
+## Works Cited 
+Works Cited
+“10 Reasons Why You Should Learn How To Develop Video Games.” Hacker Noon, 12 Aug. 2019, hackernoon.com/10-reasons-why-you-should-keep-learning-game-development-hf3l3zmn.
+“CSC404H1: Introduction to Video Game Design.” CSC404H1: Introduction to Video Game Design | Academic Calendar, fas.calendar.utoronto.ca/course/csc404h1.
+How to Become a Video Game Designer! Ask Gamedev, 5 Feb. 2018, www.youtube.com/watch?v=6vSucvjN9Tc. 
+Matthew.jukes. “Video Game Designer: Job Description.” TARGETjobs, 27 Aug. 2020, targetjobs.co.uk/careers-advice/job-descriptions/454743-video-game-designer-job-description.
+“Video Game Designer Education Requirements: 2019 Guide.” The Ultimate Resource for Video Game Design, 25 Oct. 2020, www.gamedesigning.org/learn/requirements/.
+“Video Game Designer Jobs.” Video Game Designer Jobs (with Salaries) | Indeed.com Canada, ca.indeed.com/jobs?q=Video game designer&l&advn=9951939992704864&vjk=654427edffba5afe.
