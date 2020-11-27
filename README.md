@@ -38,6 +38,8 @@ One university that offers Video Game Design is the University of Toronto. The p
 ***
 ## Experiential Learning
 There are a number of online seminars going on for people to participate in, to gain experience on not only video game designing itself, but also skills like teamwork, and creativity. Recently I participated in a seminar by illuminate called NHLC(national highschool leadership conference), in which I completed a number of tasks with new people whom I have become friends with. Through this experience I have gained new friends, and I believe that my teamwork,and problem solving skills have benefited greatly from the experience
+***
+Another thing that you can do to gain experience to become a video game designer is to intern at a place like IBM. There are also competitions for game design for highschool students like Chiplay who are hosting a game design competition. This will give students an opportunity to test their skills, and even win rewards.
 ## Real Jobs
 
 | Level of Experience  | Years of Experience| Salary |City|
@@ -69,5 +71,6 @@ Works Cited
 “CSC404H1: Introduction to Video Game Design.” CSC404H1: Introduction to Video Game Design | Academic Calendar, fas.calendar.utoronto.ca/course/csc404h1.
 How to Become a Video Game Designer! Ask Gamedev, 5 Feb. 2018, www.youtube.com/watch?v=6vSucvjN9Tc. 
 Matthew.jukes. “Video Game Designer: Job Description.” TARGETjobs, 27 Aug. 2020, targetjobs.co.uk/careers-advice/job-descriptions/454743-video-game-designer-job-description.
+“Student Game Design Competition.” CHI PLAY 2020, chiplay.acm.org/2020/competition/.
 “Video Game Designer Education Requirements: 2019 Guide.” The Ultimate Resource for Video Game Design, 25 Oct. 2020, www.gamedesigning.org/learn/requirements/.
 “Video Game Designer Jobs.” Video Game Designer Jobs (with Salaries) | Indeed.com Canada, ca.indeed.com/jobs?q=Video game designer&l&advn=9951939992704864&vjk=654427edffba5afe.
