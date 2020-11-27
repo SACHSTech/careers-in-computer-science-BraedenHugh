@@ -1,4 +1,4 @@
-## Career as a Video Game Desinger
+# ```Career as a Video Game Desinger```
 ### Table of Contents
 [Research](#Research) <br>
 &nbsp;&nbsp;[Job Description](#Job-Description) <br>
@@ -7,6 +7,7 @@
 &nbsp;&nbsp;[Salary](#Salary) <br>
 &nbsp;&nbsp;[Video](#Here-is-a-video) <br>
 [Standard Education](#Standard-Education) <br>
+[Experiential Learning](#Experiential-Learning) <br>
 ### Research
 ---
 #### Job Description
@@ -29,3 +30,6 @@
 ***
 ## Standard Education
 One university that offers Video Game Design is the University of Toronto. The prerequisites to this program are software design, software tools and systems programming, and introduction to software engineering. It will take around 5 years to complete.
+***
+## Experiential Learning
+There are a number of online seminars going on for people to participate in, to gain experience on not only video game designing itself, but also skills like teamwork, and creativity. Recently I participated in a seminar by illuminate called NHLC(national highschool leadership conference), in which I completed a number of tasks with new people whom I have become friends with. Through this experience I have gained new friends, and I believe that my teamwork,and problem solving skills have benefited greatly from the experience
