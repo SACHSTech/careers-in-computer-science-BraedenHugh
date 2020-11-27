@@ -37,7 +37,7 @@ There are a number of online seminars going on for people to participate in, to 
 ## Real Jobs
 
 | Level of Experience  | Years of Experience| Salary |City|
-| ------------- |:-------------:| -----:|--------:|-----|
+| ------------- |:-------------:| -----:|--------:|
 | Entry Level  |1-3 years| $40000 |Markham Ontario|
 | Mid Level    |3-5 years|$60000 - 80000 |Vancouver BC|
 | Senior Level |5+ years|$75000 - 95000|Vancouver BC|
