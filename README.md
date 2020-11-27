@@ -67,10 +67,10 @@ Another thing that you can do to gain experience to become a video game designer
 
 ## Works Cited 
 Works Cited
-“10 Reasons Why You Should Learn How To Develop Video Games.” Hacker Noon, 12 Aug. 2019, hackernoon.com/10-reasons-why-you-should-keep-learning-game-development-hf3l3zmn.
-“CSC404H1: Introduction to Video Game Design.” CSC404H1: Introduction to Video Game Design | Academic Calendar, fas.calendar.utoronto.ca/course/csc404h1.
-How to Become a Video Game Designer! Ask Gamedev, 5 Feb. 2018, www.youtube.com/watch?v=6vSucvjN9Tc. 
-Matthew.jukes. “Video Game Designer: Job Description.” TARGETjobs, 27 Aug. 2020, targetjobs.co.uk/careers-advice/job-descriptions/454743-video-game-designer-job-description.
-“Student Game Design Competition.” CHI PLAY 2020, chiplay.acm.org/2020/competition/.
-“Video Game Designer Education Requirements: 2019 Guide.” The Ultimate Resource for Video Game Design, 25 Oct. 2020, www.gamedesigning.org/learn/requirements/.
-“Video Game Designer Jobs.” Video Game Designer Jobs (with Salaries) | Indeed.com Canada, ca.indeed.com/jobs?q=Video game designer&l&advn=9951939992704864&vjk=654427edffba5afe.
+“10 Reasons Why You Should Learn How To Develop Video Games.” Hacker Noon, 12 Aug. 2019, http://hackernoon.com/10-reasons-why-you-should-keep-learning-game-development-hf3l3zmn.
+“CSC404H1: Introduction to Video Game Design.” CSC404H1: Introduction to Video Game Design | Academic Calendar, http://fas.calendar.utoronto.ca/course/csc404h1.
+How to Become a Video Game Designer! Ask Gamedev, 5 Feb. 2018, www.youtube.com/watch?v=6vSucvjN9Tc.
+Matthew.jukes. “Video Game Designer: Job Description.” TARGETjobs, 27 Aug. 2020, http://targetjobs.co.uk/careers-advice/job-descriptions/454743-video-game-designer-job-description.
+“Student Game Design Competition.” CHI PLAY 2020, http://chiplay.acm.org/2020/competition/.
+“Video Game Designer Education Requirements: 2019 Guide.” The Ultimate Resource for Video Game Design, 25 Oct. 2020, http://www.gamedesigning.org/learn/requirements/.
+“Video Game Designer Jobs.” Video Game Designer Jobs (with Salaries) | Indeed.com Canada, http://ca.indeed.com/jobs?q=Video game designer&l&advn=9951939992704864&vjk=654427edffba5afe.
