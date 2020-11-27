@@ -16,3 +16,4 @@ There are a number of programs that can be taken to become a videogame designer.
 * Teamwork 
 #### Salary of Video Game Designer
 On average a video game designer makes around ** $54 000 ** annually. This can go up to around ** $90 000 ** for a more senior position.
+<a href="https://www.youtube.com/watch?v=6vSucvjN9Tc" target="_blank"><img src="https://hackernoon.com/drafts/1k3j3zqp.png" alt="Click to Watch!" width="900" height="500" border="0" /></a>
