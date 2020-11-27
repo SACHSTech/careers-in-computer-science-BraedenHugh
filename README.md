@@ -35,6 +35,7 @@ One university that offers Video Game Design is the University of Toronto. The p
 ## Experiential Learning
 There are a number of online seminars going on for people to participate in, to gain experience on not only video game designing itself, but also skills like teamwork, and creativity. Recently I participated in a seminar by illuminate called NHLC(national highschool leadership conference), in which I completed a number of tasks with new people whom I have become friends with. Through this experience I have gained new friends, and I believe that my teamwork,and problem solving skills have benefited greatly from the experience
 ## Real Jobs
+
 | Level of Experience  | Years of Experience| Salary |City|
 | ------------- |:-------------:| -----:|--------:|-----|
 | Entry Level  |1-3 years| $40000 |Markham Ontario|
