@@ -54,8 +54,8 @@ There are a number of online seminars going on for people to participate in, to 
 ### Senior Level
 **Job Description:**  The primary function of the Video Game Designer is to be a part of and contribute to a talented team of game designers to consistently deliver projects that are creatively and commercially successful.
 **Requirements:**
-*Experience communicating across disciplines (art, sound, tech)
-*Minimum 5 years of experience as a video game designer
-*Minimum 3 published video game titles on iOS, Android, PC/Mac or console
-*College or university diploma, certificate or degree in game design or equivalent experience
-*Must complete our entry creative test
+* Experience communicating across disciplines (art, sound, tech)
+* Minimum 5 years of experience as a video game designer
+* Minimum 3 published video game titles on iOS, Android, PC/Mac or console
+* College or university diploma, certificate or degree in game design or equivalent experience
+* Must complete our entry creative test
